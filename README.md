@@ -42,7 +42,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-66595C?style=for-the-badge&logo=Notepad++&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   
 </p>
@@ -50,6 +50,6 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 ## Databases:
 
 <p>
-  <img src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=SQLServer&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
