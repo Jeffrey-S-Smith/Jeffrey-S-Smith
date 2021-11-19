@@ -6,7 +6,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 
 :mailbox: Contact me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jeffrey-S-Smith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/jeffrey-s-smith/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] [github] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][linkedin]
 
 <!--
 **Jeffrey-S-Smith/Jeffrey-S-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,3 +65,6 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+[linkedin]: (https://linkedin.com/in/jeffrey-s-smith)
+[github]: (github.com/Jeffrey-S-Smith)
