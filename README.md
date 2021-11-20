@@ -6,7 +6,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 
 :mailbox: Contact me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jeffrey-S-Smith) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jeffrey-S-Smith/codefellows-reading-notes-webpage) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
 
 <!--
 **Jeffrey-S-Smith/Jeffrey-S-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
