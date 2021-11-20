@@ -1,5 +1,7 @@
 # Hello, I'm Jeffrey Smith! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img src="https://pixabay.com/illustrations/eye-iris-biometrics-face-detection-5814965/" width="800px" height="auto">
+
 I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows.
 
  🔭 I’m currently working on this page. 
