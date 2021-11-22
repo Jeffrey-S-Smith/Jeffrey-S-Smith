@@ -69,5 +69,4 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 <footer>
 <p style="float:left; width: 20%;">
 Copyright © Jeffrey Smith, 2021
-[Resume](https://drive.google.com/file/d/1mfHoGsYpBEAftIFdoA65EXfYarG73BvB/view?usp=sharing)
 </footer>
