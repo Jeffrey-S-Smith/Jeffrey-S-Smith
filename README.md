@@ -1,5 +1,5 @@
 # Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jeffrey Smith!
-
+<br>
 <img src="https://unsplash.com/photos/qDG7XKJLKbs" width="800px" height="auto">
 
 I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows.
