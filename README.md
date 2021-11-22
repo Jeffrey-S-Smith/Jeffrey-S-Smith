@@ -1,6 +1,6 @@
 # Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jeffrey Smith
 
-<img src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" width="1584" height="396">
+<img src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" width="2000" height="396">
 
 I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows.
 
@@ -9,10 +9,6 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 :mailbox: Contact me!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jeffrey-S-Smith/codefellows-reading-notes-webpage) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
-
-<!--
-**Jeffrey-S-Smith/Jeffrey-S-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ## Programming languages
 
