@@ -10,7 +10,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jeffrey-S-Smith/codefellows-reading-notes-webpage) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='Email' height='40'>](jeffrey_s_smith@live.com)
+
 
 ## Programming languages
 
