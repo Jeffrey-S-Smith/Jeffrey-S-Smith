@@ -8,7 +8,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 
 :mailbox: Contact me!
 
-[<img src='https://cdn-icons-png.flaticon.com/512/552/552486.png' alt='Email' width="256" height="256">](mailto:jeffrey_s_smith@live.com)
+[<img src='https://cdn-icons-png.flaticon.com/512/552/552486.png' alt='Email' height='40'>](mailto:jeffrey_s_smith@live.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
 
