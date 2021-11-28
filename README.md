@@ -9,10 +9,8 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 :mailbox: Contact me!
 
 <p>
-
-[<img src='https://as2.ftcdn.net/v2/jpg/02/94/86/83/1000_F_294868366_X8FPsss7F8fsUBDpAUIEjrcY66K3Hgre.jpg' alt='Email' height='40'>](mailto:jeffrey_s_smith@live.com)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
+<img src='https://as2.ftcdn.net/v2/jpg/02/94/86/83/1000_F_294868366_X8FPsss7F8fsUBDpAUIEjrcY66K3Hgre.jpg' alt='Email' height='40'>](mailto:jeffrey_s_smith@live.com)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://linkedin.com/in/jeffrey-s-smith)
 </p>
 
 ## Knowledge Programming languages
@@ -23,14 +21,14 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
   <img alt="Java" src="https://img.shields.io/badge/Java-#007396?logo=java&logoColor=white&style=plastic" />
   <img alt="C++" src="https://img.shields.io/badge/C++-#00599C?logo=c++&logoColor=white&style=plastic" />
-
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 
 </p>
 
 ## Frameworks and Libraries
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
