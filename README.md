@@ -9,6 +9,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 :mailbox: Contact me!
 
 <p>
+
 [<img src='https://as2.ftcdn.net/v2/jpg/02/94/86/83/1000_F_294868366_X8FPsss7F8fsUBDpAUIEjrcY66K3Hgre.jpg' alt='Email' height='40'>](mailto:jeffrey_s_smith@live.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/jeffrey-s-smith)
@@ -20,8 +21,8 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-#007396?logo=Java&logoColor=white&style=plastic" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-#00599C?logo=C++&logoColor=white&style=plastic" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-#007396?logo=java&logoColor=white&style=plastic" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-#00599C?logo=c++&logoColor=white&style=plastic" />
 
 
 </p>
