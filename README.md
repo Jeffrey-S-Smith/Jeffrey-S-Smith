@@ -15,9 +15,11 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 ## Knowledge Programming languages
 
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/html-E34F26?logo=HTML5&logoColor=white&style=plastic" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-#007396?logo=java&logoColor=white&style=plastic" />
+
 
 </p>
 
