@@ -52,8 +52,9 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 ## Version Control
 
 <p>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black" />
+<img alt="HTML" src="https://img.shields.io/badge/Git-#F05032?logo=Git&logoColor=white&style=plastic" />
+
+<img src="https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github&logoColor=black&style=plastic" />
 </p>
 
 ## Operating System
