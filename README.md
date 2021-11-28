@@ -18,6 +18,7 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
   <img alt="C++" src="https://img.shields.io/badge/C++-#00599C?logo=C++&logoColor=red&style=plastic" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
  </p>
 
 ## Frameworks and Libraries
