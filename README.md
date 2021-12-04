@@ -1,4 +1,4 @@
-# Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jeffrey Smith
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a> I'm Jeffrey Smith</h1>
 
 <img src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" width="1280" height="640">
 
@@ -6,10 +6,14 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA. Currently in Codefellows
 
  🔭 I’m currently working on this page.
 
-:mailbox: Contact me!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 <img src='https://as2.ftcdn.net/v2/jpg/02/94/86/83/1000_F_294868366_X8FPsss7F8fsUBDpAUIEjrcY66K3Hgre.jpg' alt='Email' height='40'>(mailto:jeffrey_s_smith@live.com)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://linkedin.com/in/jeffrey-s-smith)
+<a href="https://stackoverflow.com/users/16996187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16996187" height="30" width="40" /></a>
+
+</p>
 
 ## Knowledge Programming languages
 
