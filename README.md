@@ -15,9 +15,9 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA.
 <a href='https://stackoverflow.com/users/16996187' target='blank'><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stack overflow' height='30' width='40' /></a>
 </p>
 
-## Knowledge Programming languages
-
+<h3 align="left">Languages:</h3>
 <p>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=plastic" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
