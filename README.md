@@ -64,6 +64,8 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 <p>
+<h3 align="center"> WakaTime Language Statistics:</h3>
+<p align="center">
  <img src="https://wakatime.com/share/@994800a1-42bb-4b9e-854c-4499917aef1c/e516cba8-73dc-4696-94aa-03425a060721.svg" height="400"/>
 </p>
 
