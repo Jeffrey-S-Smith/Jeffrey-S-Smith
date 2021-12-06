@@ -71,6 +71,6 @@ I'm a Software Developer|Veteran. I'm from Seattle, WA.
 
 <footer>
 <p style="float:left; width: 20%;">
-Copyright © Jeffrey Smith, 2021
+Copyright © Jeffrey Smith, 2019
 </p>
 </footer>
