@@ -4,7 +4,7 @@
 <img src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" width="1280" height="640">
 </p>
 
-I'm a Software Developer|Veteran. I'm from Seattle, WA.
+I'm a Software Developer|Veteran. I'm from Seattle, WA Yay.
 
  🔭 I’m currently working on this page.
 
