@@ -6,7 +6,7 @@
 
 I'm a Software Developer|Veteran. I'm from Seattle, WA.
 
- 🔭 I’m currently working on this page.
+ 🔭 I’m currently working on Portfolio.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
