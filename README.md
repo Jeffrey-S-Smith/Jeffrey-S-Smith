@@ -1,10 +1,8 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"></a> I'm Jeffrey Smith</h1>
+[![Header]("https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" width="1280" height="640" "Header")]
 
-<p align="left">
-<img src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" width="1280" height="640">
-</p>
+# Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px />
 
-I'm a Software Developer|Veteran. I'm from Seattle, WA.
+My name is Jeffrey Smith and I'm a Software Developer|Veteran from Seattle, WA.
 
  🔭 I’m currently working on Portfolio & cybersecurity education.
 
