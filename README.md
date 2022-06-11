@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello, Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px></a></h1>
 
-I'm Jeffrey Smith and I'm a Software Developer|Veteran from Seattle, WA.
+## I'm Jeffrey Smith and I'm a Software Developer|Veteran from Seattle, WA.
 
  🔭 I’m currently working on Portfolio & cybersecurity education.
 
