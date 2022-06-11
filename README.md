@@ -3,9 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Who am I: I'm a Software Developer|Veteran from Seattle, WA.
+<p align="center">Who am I: I'm a Software Developer|Veteran from Seattle, WA.
 
- 🔭 I’m currently working on Portfolio & cybersecurity education.
+ 🔭 I’m currently working on Portfolio & cybersecurity education.</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
