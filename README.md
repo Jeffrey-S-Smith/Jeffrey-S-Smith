@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![Jeffrey-S-Smith](banner.png)
+![https://github.com/Jeffrey-S-Smith/Jeffrey-S-Smith](banner.png)
 
 <p align="center"><a>Who am I: I'm a Software Developer|Veteran from Seattle, WA.
 
