@@ -7,12 +7,21 @@
 
 <p align="center"><a>Who am I: I'm a Software Developer|Veteran from Seattle, WA.
 
- 🔭 I’m currently working on Portfolio.</a>
+ - 🔭 I’m currently working on Portfolio in HTML, CSS, Javascript, React.
+ - 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+ 
+ </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href='mailto:jeffrey_s_smith@live.com' target='blank'><img align="center" src='https://as2.ftcdn.net/v2/jpg/02/94/86/83/1000_F_294868366_X8FPsss7F8fsUBDpAUIEjrcY66K3Hgre.jpg' alt='Email' height='30' width='40' /></a>
+<a href='mailto:mailjeffrey_s_smith@live.com' target='blank'><img align="center" src='https://as2.ftcdn.net/v2/jpg/02/94/86/83/1000_F_294868366_X8FPsss7F8fsUBDpAUIEjrcY66K3Hgre.jpg' alt='Email' height='30' width='40' /></a>
 <a href='https://linkedin.com/in/jeffrey-s-smith' target='blank'><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='40' /></a>
 <a href='https://stackoverflow.com/users/16996187' target='blank'><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stack overflow' height='30' width='40' /></a>
 </p>
@@ -71,6 +80,8 @@
 <p align="center">
  <img src="https://wakatime.com/share/@994800a1-42bb-4b9e-854c-4499917aef1c/e516cba8-73dc-4696-94aa-03425a060721.svg" height="400"/>
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeffrey-S-Smith.Jeffrey-S-Smith)
 
 <footer>
 <p style="float:left; width: 20%;">
