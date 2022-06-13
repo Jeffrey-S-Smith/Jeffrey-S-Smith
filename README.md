@@ -1,12 +1,13 @@
-![Jeffrey-S-Smith](banner.png)
 <h3 align="center">
   Welcome to Jeffrey Smith profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+![Jeffrey-S-Smith](banner.png)
+
 <p align="center"><a>Who am I: I'm a Software Developer|Veteran from Seattle, WA.
 
- 🔭 I’m currently working on Portfolio & cybersecurity education.</a>
+ 🔭 I’m currently working on Portfolio.</a>
 </p>
 
 ## <h3 align="left">Connect with me:</h3>
