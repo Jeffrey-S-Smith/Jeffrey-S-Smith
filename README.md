@@ -1,5 +1,4 @@
-![](https://github.com/Jeffrey-S-Smith/Jeffrey-S-Smith/banner.png)
-
+![Jeffrey-S-Smith](banner.png)
 <h3 align="center">
   Welcome to Jeffrey Smith profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
