@@ -5,7 +5,8 @@
 
 <img src="https://github.com/Jeffrey-S-Smith/Jeffrey-S-Smith/blob/main/banner%20.png">
 
- ## <p align="center"><a> Who am I: <br> I'm a Software Developer|Veteran from Seattle, WA.
+ ## <p align="center"><a> Who am I: <br>
+  I'm a Software Developer|Veteran from Seattle, WA.
  </a>
 </p>
 
