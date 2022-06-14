@@ -1,23 +1,21 @@
 <h3 align="center">
-  Welcome to Jeffrey Smith profile!
+  Welcome to Jeffrey Smith GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <img src="https://github.com/Jeffrey-S-Smith/Jeffrey-S-Smith/blob/main/banner%20.png">
 
 <p align="center"><a>Who am I: I'm a Software Developer|Veteran from Seattle, WA.
-
- - 🔭 I’m currently working on Portfolio in HTML, CSS, Javascript, React.
- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
  </a>
 </p>
+
+## 👩‍💻 About me
+ - 🔭 I’m currently working on Portfolio in HTML, CSS, Javascript, React.
+ - 🌱 I’m currently learning Azure and AWS 
+- 📄 ** Degree: Associate of Information Technology**
+- 💻 Interested in fullstack development.
+- 💼 [CV/Resume](.pdf "CV/Resume")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
