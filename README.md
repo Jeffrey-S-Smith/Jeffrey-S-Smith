@@ -80,7 +80,9 @@
  <img src="https://wakatime.com/share/@994800a1-42bb-4b9e-854c-4499917aef1c/e516cba8-73dc-4696-94aa-03425a060721.svg" height="400"/>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeffrey-S-Smith.Jeffrey-S-Smith)
+<h3 align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Jeffrey-S-Smith.Jeffrey-S-Smith" alt="visitor badge"/
+</h3>
 
 <footer>
 <p style="float:left; width: 20%;">
