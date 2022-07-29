@@ -19,7 +19,7 @@
 
 💻 Interested in fullstack development.
 
-- 💼 [CV/Resume](<a href="https://drive.google.com/file/d/1-bY6v6rk2DBdqYyok7edW0sipJIBuzGV/view?usp=sharing"></a> "CV/Resume")
+- 💼 [CV/Resume](https://drive.google.com/file/d/1-bY6v6rk2DBdqYyok7edW0sipJIBuzGV/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
