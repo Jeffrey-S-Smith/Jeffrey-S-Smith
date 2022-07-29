@@ -15,7 +15,7 @@
  - 🌱 I’m currently learning Azure and AWS 
 - 📄 ** Associate Degree of Information Technology**
 - 💻 Interested in fullstack development.
-- 💼 [CV/Resume](.pdf "CV/Resume")
+- 💼 [CV/Resume]("https://drive.google.com/file/d/1-bY6v6rk2DBdqYyok7edW0sipJIBuzGV/view?usp=sharing" "CV/Resume")
 
 
 <h3 align="left">Connect with me:</h3>
