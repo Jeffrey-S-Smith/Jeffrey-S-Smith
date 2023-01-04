@@ -15,7 +15,8 @@
 
 🌱 I’m currently learning Azure and AWS
 
-- <a href="https://www.freeiconspng.com/img/10301">Certificate in Advanced Software Development with Javascript from Code Fellows.</a>
+- <a href="https://www.freeiconspng.com/img/10301" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/certificate-icon-6.png" width="350" alt="Certificate Symbols" /></a>
+<!-- <a href="https://drive.google.com/file/d/1-0Ypvm51eRAmndvrcxW6AWw0DVgRN36i/view?usp=share_link">Certificate in Advanced Software Development with Javascript from Code Fellows.</a> -->
  
 - 📄 Associate Degree of Information Technology
 
