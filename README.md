@@ -35,8 +35,7 @@
   <h3 align="left">Language Knowledge:</h3>
 
  <img src="https://icongr.am/devicon/c-original.svg?size=40&color=currentColor" title="C" alt="C"
- <!-- <a><img src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=currentColor" title="Cplusplus" alt="Cplusplus";></a>
- <a><img src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" title="Csharp" alt="Csharp";></a> -->
+ 
 
   <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
