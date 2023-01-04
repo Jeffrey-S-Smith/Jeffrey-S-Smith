@@ -1,3 +1,4 @@
+```html
 <h3 align="center">
   Welcome to Jeffrey Smith GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -15,11 +16,12 @@
 
 🌱 I’m currently learning Azure and AWS
 
-📄 ** Associate Degree of Information Technology**
+- 📄 Certificate in Advanced Software Development with Javascript from Code Fellows.
+- 📄 Associate Degree of Information Technology
 
 💻 Interested in fullstack development.
 
-💼 [CV/Resume](https://drive.google.com/file/d/1-bY6v6rk2DBdqYyok7edW0sipJIBuzGV/view?usp=sharing)
+💼 [CV/Resume](https://drive.google.com/file/d/1NQw8sS4evHQdWrhkWpWveQhwjVcDxUvJ/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -52,11 +54,13 @@
   </p>
 <hr size="8" color="black">
 <h3 align="left">Tools:</h3>
-
 <p>
   <a href="https://www.vscode.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.visualstudio.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40"/> </a>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic" />
+
+  <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+  
  </p>
 <hr size="8" color="black">
 <h3 align="left">Databases:</h3> 
@@ -93,3 +97,5 @@
 Copyright © Jeffrey Smith, 2021
 </p>
 </footer>
+
+```
