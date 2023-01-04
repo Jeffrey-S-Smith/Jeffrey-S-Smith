@@ -80,7 +80,7 @@
 <hr size="8" color="black">
 <h3 align="left">Cloud & Hosting:</h3>
 <p>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/></a>
+<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/azonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/></a>
 
 </p>
 
