@@ -31,7 +31,7 @@
 <a href='https://stackoverflow.com/users/16996187' target='blank'><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stack overflow' height='30' width='40' /></a>
 </p>
 
-<hr size="8" color="black">
+
 <h3 align="left">Language Knowledge:</h3>
 
 <code><img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
