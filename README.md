@@ -17,7 +17,9 @@
 
 🌱 I’m currently learning Azure and AWS
 
-- 📄 Associate Degree of Information Technology
+📜 [Certificate](https://drive.google.com/file/d/1-0Ypvm51eRAmndvrcxW6AWw0DVgRN36i/view?usp=sharing)
+
+📄 Associate Degree of Information Technology
 
 💻 Interested in fullstack development.
 
