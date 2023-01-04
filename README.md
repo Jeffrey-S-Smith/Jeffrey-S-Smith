@@ -1,3 +1,4 @@
+```
 <h3 align="center">
   Welcome to Jeffrey Smith GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,7 +8,7 @@
 
 ## <p align="center"><a> Who am I: <br>
 
-  I'm a Software Developer|Veteran from Seattle, WA.
+  I'm a Full Stack Software Developer|Veteran from Seattle, WA.
  </a>
 </p>
 
@@ -93,8 +94,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeffrey-S-Smith.Jeffrey-S-Smith" alt="visitor badge"/
 </h3>
 
-<footer>
+<div>
 <p style="float:left; width: 20%;">
 Copyright © Jeffrey Smith, 2021
 </p>
-</footer>
+</div>
+```
