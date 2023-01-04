@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning Azure and AWS
 
-📜 [Certificate](https://drive.google.com/file/d/1-0Ypvm51eRAmndvrcxW6AWw0DVgRN36i/view?usp=sharing)
+📜 [Certificate - Advanced Software Development with Javascript](https://drive.google.com/file/d/1-0Ypvm51eRAmndvrcxW6AWw0DVgRN36i/view?usp=sharing)
 
 📄 Associate Degree of Information Technology
 
