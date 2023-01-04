@@ -15,7 +15,8 @@
 
 🌱 I’m currently learning Azure and AWS
 
-- 📄 Certificate in Advanced Software Development with Javascript from Code Fellows.
+- <a href="https://www.freeiconspng.com/img/10301">Certificate in Advanced Software Development with Javascript from Code Fellows.</a>
+ 
 - 📄 Associate Degree of Information Technology
 
 💻 Interested in fullstack development.
