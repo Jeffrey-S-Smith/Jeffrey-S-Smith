@@ -90,12 +90,11 @@
 <hr size="8" color="black">
 <h3 align="left">Tools:</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width=100" height="100" />
-  <!-- <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" alt="visualstudio" width="40" height="40"> -->
-                  
+  
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" alt="visualstudio">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="Yarn"> 
-  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width=100" height="100" /> 
 <hr size="8" color="black">
 <h3 align="left">Version Control:</h3>
 <p>
