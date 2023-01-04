@@ -91,8 +91,8 @@
 <h3 align="left">Tools:</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40"/> 
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="70" height="70"/> 
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="Yarn"> 
   
 <hr size="8" color="black">
