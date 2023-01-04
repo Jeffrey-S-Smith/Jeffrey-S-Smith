@@ -80,8 +80,8 @@
 <hr size="8" color="black">
 <h3 align="left">Cloud & Hosting:</h3>
 <p>
-<a><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazonweb services"></a>
-<a><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="microsoft azure"></a>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazonweb services">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="microsoft azure">
 
 
 
