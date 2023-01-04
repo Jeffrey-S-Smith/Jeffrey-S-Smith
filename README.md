@@ -101,7 +101,7 @@
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
 </p>
 
 <hr size="8" color="black">
