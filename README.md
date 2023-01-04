@@ -56,24 +56,20 @@
 <a href="https://www.jquery.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a>
 
 
-
-
 <hr size="8" color="black">
 <h3 align="left">Backend:</h3>
 <p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-
-
-
-
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs">
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet">
 
 <hr size="8" color="black">
 <h3 align="left">Database:</h3>
 <p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongodb">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="Sqlite">
 </p>
 
 
@@ -82,6 +78,8 @@
 <p>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazonweb services">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="microsoft azure">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku">
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify">
 </p>
 
 <hr size="8" color="black">
