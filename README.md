@@ -34,7 +34,7 @@
 
   <h3 align="left">Language Knowledge:</h3>
 
- <a href="https://icongr.am/devicon" target="_blank" rel="noreferrer"><img src="https://icongr.am/devicon/c-original.svg?size=40&color=currentColor" title="C" alt="C";></a>
+ <img src="https://icongr.am/devicon/c-original.svg?size=40&color=currentColor" title="C" alt="C"
  <!-- <a><img src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=currentColor" title="Cplusplus" alt="Cplusplus";></a>
  <a><img src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" title="Csharp" alt="Csharp";></a> -->
 
