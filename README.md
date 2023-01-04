@@ -91,29 +91,29 @@
 <hr size="8" color="black">
 <h3 align="left">Tools:</h3>
 <p>
-  <a href="https://www.vscode.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode">
   <a href="https://www.visualstudio.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40"/> </a>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic" />
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/></a>
-  
-  
- 
+<img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="Yarn"> 
   
 <hr size="8" color="black">
 <h3 align="left">Version Control:</h3>
 <p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.github.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
+<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman">
 </p>
 
 <hr size="8" color="black">
 <h3 align="left">Operating System:</h3>  
 
-<a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=plastic" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-
 <p>
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="Microsoft Windows">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux">
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu">
+</p>
+
+
 <h3 align="center"> WakaTime Language Statistics:</h3>
 <p align="center">
  <img src="https://wakatime.com/share/@994800a1-42bb-4b9e-854c-4499917aef1c/e516cba8-73dc-4696-94aa-03425a060721.svg" height="400"/>
