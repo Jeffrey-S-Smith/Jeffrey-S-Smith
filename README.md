@@ -1,4 +1,4 @@
-```
+
 <h3 align="center">
   Welcome to Jeffrey Smith GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -99,4 +99,4 @@
 Copyright © Jeffrey Smith, 2021
 </p>
 </div>
-```
+
