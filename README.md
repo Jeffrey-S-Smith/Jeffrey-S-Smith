@@ -82,14 +82,13 @@
 <p>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazonweb services">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="microsoft azure">
-
-
-
 </p>
 
 <hr size="8" color="black">
 <h3 align="left">Testing:</h3>
-<p></p>
+<p>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+</p>
 
 <hr size="8" color="black">
 <h3 align="left">Tools:</h3>
