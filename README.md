@@ -17,13 +17,13 @@
 
 🌱 I’m currently learning Azure and AWS
 
-📜 [Certificate - Advanced Software Development with Javascript](https://jeffreysmithbucket.s3.us-west-2.amazonaws.com/resume-image/Jeffrey_Smith_Developer_Resume.pdf)
+📜 [Certificate - Advanced Software Development with Javascript](https://jeffreysmithbucket.s3.us-west-2.amazonaws.com/certificate/Jeffrey+Smith+401d50+JS_+Graduation+Certificate.pdf)
 
 📄 Associate Degree of Information Technology
 
 💻 Interested in fullstack development.
 
-💼 [CV/Resume](https://drive.google.com/file/d/1NQw8sS4evHQdWrhkWpWveQhwjVcDxUvJ/view?usp=sharing)
+💼 [CV/Resume](https://jeffreysmithbucket.s3.us-west-2.amazonaws.com/resume-image/Jeffrey_Smith_Developer_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
