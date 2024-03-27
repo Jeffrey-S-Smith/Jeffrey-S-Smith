@@ -23,7 +23,7 @@
 
 💻 Interested in fullstack development.
 
-💼 [CV/Resume](https://jeffreysmithbucket.s3.us-west-2.amazonaws.com/resume-image/Jeffrey_Smith_Developer_Resume.pdf)
+💼 [CV/Resume](https://jeffreysmithbucket.s3.us-west-2.amazonaws.com/github/resume_jeffrey_smith_developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
